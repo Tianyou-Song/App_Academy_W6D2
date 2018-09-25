@@ -1,0 +1,26 @@
+/* PHASE 9: Forms */
+.form-collection img {
+  display: block;
+  position: relative;
+  width: 58px;
+  height: 58px;
+  border: 1px solid #000;
+  border-radius: 5px;
+}
+
+.form-collection {
+  display: flex;
+  flex-direction: column;
+}
+
+.input input {
+  background-color: white;
+}
+
+.input label {}
+
+.form-field{
+  background-color: lightgrey;
+  align-items: center;
+  padding: 20px;
+}
